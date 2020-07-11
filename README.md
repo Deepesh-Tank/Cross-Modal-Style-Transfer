@@ -12,7 +12,7 @@ How our project is different/Better from/than mentioned paper
 4) We use an additional loss factor i.e. total variation loss that was not in mentioned paper.
 
 
-The folder IMPLEMENTED_PAPER Contains CODE.pynb file along with used database images and content images.
+The folder IMPLEMENTED_PAPER Contains CODE.ipynb file along with used database images and content images.
 
 For more detailed analysis and working of project view the CODE_ANALYIS_WORKING_RESULTS.pptx
 
